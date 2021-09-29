@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  file_put_contents(1621243052.jpg): failed to open stream: Permission denied in <b>D:\wwwroot\base64.ggmzy1.com\base64jiexi.php</b> on line <b>11</b><br />
+<br />
+<b>Warning</b>:  getimagesize(): Filename cannot be empty in <b>D:\wwwroot\base64.ggmzy1.com\base64jiexi.php</b> on line <b>22</b><br />
+<br />
+<b>Warning</b>:  fopen(): Filename cannot be empty in <b>D:\wwwroot\base64.ggmzy1.com\base64jiexi.php</b> on line <b>23</b><br />
